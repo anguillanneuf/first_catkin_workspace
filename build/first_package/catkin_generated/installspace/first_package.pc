@@ -1,0 +1,8 @@
+prefix=/home/tianzi/Documents/catkin_ws0/install
+
+Name: first_package
+Description: Description of first_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tianzi/Documents/catkin_ws0/install/lib 
+Requires: 
